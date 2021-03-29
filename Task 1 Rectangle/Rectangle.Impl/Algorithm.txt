@@ -1,0 +1,9 @@
+﻿		algorithm for finding rectangle:
+	1) find min and max x and y values of all points(xmax, xmin, ymax, ymin)
+	2) the bottom left point of desired rectangle will be: x = xmin, y = ymin
+    3) rectangle's width = xmax - xmin, height = ymax - ymin
+	4) then rectangle coordinates will be a(xmin, ymin), b(xmin, ymax), c(xmax, ymax), d(xmax, ymin)
+		 	
+		algorithm for finding unwanted point:
+    1) find 4 points : (x, ymin), (x, ymax), (xmin, y), (xmax, y)
+    2) any one of those could be decluded, and just build your rectangle with the rest of the points

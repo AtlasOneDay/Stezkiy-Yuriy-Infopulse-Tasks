@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LD9FsxwPm5m+Gcwo0A7V6V/r+86CvYBTRvGO8BoW4UO3vg55TIN5AEJFMieO4cHXCY7X1Z3FlT3w0BN3bcGvcw==",
+  "success": true,
+  "projectFilePath": "D:\\InfoPulse\\1 task\\Rectangle 2.0 (hopefully)\\Rectangle.Impl\\Rectangle.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
