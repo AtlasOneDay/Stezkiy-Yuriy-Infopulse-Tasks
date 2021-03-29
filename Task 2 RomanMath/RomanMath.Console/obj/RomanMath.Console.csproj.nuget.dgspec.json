@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Console\\RomanMath.Console.csproj": {}
+    "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Console\\RomanMath.Console.csproj": {}
   },
   "projects": {
-    "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Console\\RomanMath.Console.csproj": {
+    "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Console\\RomanMath.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Console\\RomanMath.Console.csproj",
+        "projectUniqueName": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Console\\RomanMath.Console.csproj",
         "projectName": "RomanMath.Console",
-        "projectPath": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Console\\RomanMath.Console.csproj",
+        "projectPath": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Console\\RomanMath.Console.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Console\\obj\\",
+        "outputPath": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj": {
-                "projectPath": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj"
+              "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj": {
+                "projectPath": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj": {
+    "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj",
+        "projectUniqueName": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj",
         "projectName": "RomanMath.Impl",
-        "projectPath": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj",
+        "projectPath": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Impl\\obj\\",
+        "outputPath": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Impl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

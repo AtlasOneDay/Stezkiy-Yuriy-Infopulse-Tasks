@@ -6,10 +6,30 @@ namespace RomanMath.Impl
 {
     public static class Utility
     {
-        public static void ExecuteMultiplications(List<int> translatedRomanNumbers, List<char> operators)
+        public static void CheckIfArgumentNull(string expression)
         {
-
+            if(expression == null)
+            {
+                throw new ArgumentNullException();
+            }
+        }
+        public static void CheckIfArgumentIsValid(string expression)
+        {
+            char[] validChars = new char[10] { 'M', 'D', 'C', 'L', 'X', 'V', 'I', '+', '-', '*' };
             
+            foreach(char letter in expression)
+            {
+                bool letterWasValid = false;
+                for (int i = 0; i < validChars.Length; i++)
+                {
+                    if (letter.Equals(validChars[i]))
+                        letterWasValid = true;
+                }
+                if(letterWasValid == false)
+                {
+                    throw new ArgumentException("Invalid expression!");
+                }
+            }
         }
         public static bool CheckIfHasMultiplicationOperators(List<char> operators)
         {

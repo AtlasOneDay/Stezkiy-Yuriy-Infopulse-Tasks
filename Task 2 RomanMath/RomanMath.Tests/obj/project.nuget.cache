@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WvQh6ioCPkadEufg6o1oyWdNIXWVZlXl/0jdkeDWInEAls7LUbVxS0FNfzVgZJjqjXWhh7BqoTnA0cyepR6WCg==",
+  "dgSpecHash": "YIgi/L8YIFODx9AusekmsctSuHha4dJiPkrIGTue6NarwwphbBZrqsuw+9ylXTucb87u1e6BuUJwusJZe56d/g==",
   "success": true,
-  "projectFilePath": "D:\\InfoPulse\\2 task\\RomanMath\\RomanMath.Tests\\RomanMath.Tests.csproj",
+  "projectFilePath": "D:\\InfoPulse Test Tasks\\Task 2 RomanMath\\RomanMath.Tests\\RomanMath.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

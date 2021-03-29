@@ -14,3 +14,19 @@ D:\InfoPulse\2 task\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMat
 D:\InfoPulse\2 task\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.dll
 D:\InfoPulse\2 task\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.pdb
 D:\InfoPulse\2 task\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.genruntimeconfig.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.exe
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.deps.json
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.json
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.dev.json
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.dll
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.pdb
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.dll
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.pdb
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csprojAssemblyReference.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfoInputs.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfo.cs
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CoreCompileInputs.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CopyComplete
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.dll
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.pdb
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.genruntimeconfig.cache

@@ -16,9 +16,14 @@ namespace RomanMath.Impl
      
         public static int Evaluate(string expression)
 		{
+            Utility.CheckIfArgumentNull(expression);
+            Utility.CheckIfArgumentIsValid(expression);
+
             List<string> romanNumbers = Utility.GetNumbers(expression);
             List<int> translatedRomanNumbers = Utility.ConvertRomanList(romanNumbers);
             List<char> operators = Utility.GetOperators(expression);
+            
+            
 
             // didn't have enough time to come up with idea of making while loops more readable, couldn't put them inside class , because they are changing 2 lists(maybe ref/out would help)
             while (Utility.CheckIfHasMultiplicationOperators(operators) == true)  //Execute all multiplications
@@ -89,12 +94,7 @@ namespace RomanMath.Impl
 
                 }
 
-            }
-
-
-
-
-            
+            }      
             return translatedRomanNumbers[0];
             
 		}

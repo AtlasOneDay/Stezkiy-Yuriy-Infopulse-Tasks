@@ -7,3 +7,12 @@ D:\InfoPulse\2 task\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.
 D:\InfoPulse\2 task\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.CoreCompileInputs.cache
 D:\InfoPulse\2 task\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.dll
 D:\InfoPulse\2 task\RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.pdb
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.deps.json
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.dll
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.pdb
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csprojAssemblyReference.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfoInputs.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfo.cs
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.CoreCompileInputs.cache
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.dll
+D:\InfoPulse Test Tasks\Task 2 RomanMath\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.pdb
